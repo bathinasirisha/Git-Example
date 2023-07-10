@@ -1,0 +1,2 @@
+Git add command
+This command is used to add one or more files to staging (Index) area.
